@@ -38,7 +38,7 @@ Consult these files based on the task at hand:
 1. Identify what you need to implement
 2. Read the corresponding documentation file(s) completely
 3. Apply the patterns and guidelines from the documentation
-4. Only then generate code
+4. Only then generate code.
 
 ## Project Overview
 
